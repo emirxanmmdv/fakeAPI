@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Emirxan"
+    },
+    {
+      "id": 2,
+      "name": "Eli"
+    },
+    {
+      "id": 3,
+      "name": "Akif"
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "product": "Armud"
+    },
+    {
+      "product": "oglanniq",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "Çox şirin armuddur"
+    },
+    {
+      "id": 2,
+      "comment": "Çox kal armuddur"
+    },
+    {
+      "id": 3,
+      "comment": "Alma>Armud"
+    }
+  ]
+}
